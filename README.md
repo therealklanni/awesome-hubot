@@ -37,6 +37,7 @@ A list of must-have [Hubot](https://hubot.github.com) scripts.
 
 ## Utility
 * [Factoids](https://github.com/therealklanni/hubot-factoids) - Give hubot factoids support similar to oftn-bot.
+* [PlusPlus](https://github.com/ajacksified/hubot-plusplus) - Give users points (or take them away).
 
 ## Games
 * [Ingress](https://github.com/hubot-scripts/hubot-ingress) - Show off your Ingress badges (plus some other utils).
